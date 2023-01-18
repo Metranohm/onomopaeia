@@ -16,6 +16,17 @@ header {
 
 h1 {
   text-align: center;
+  padding-top: 30px;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.early {
+  text-align: center;
+  padding-top: 30px;
 }
 
 .bosch1 {
@@ -85,6 +96,3 @@ p {
   padding: 10px;
 }
 
-h1 {
-  padding-top: 30px;
-}
