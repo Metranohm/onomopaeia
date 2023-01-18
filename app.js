@@ -9,3 +9,10 @@ contactLink.addEventListener("click", function() {
   // Change the text of the section
   contactSection.innerHTML = "Thank you for your interest! Our contact information is currently being updated.";
 });
+
+<script>
+document.querySelector('a[href^="mailto"]').addEventListener('click', function (event) {
+    preventDefault()};
+    window.location.href = this.href;
+});
+</script>
