@@ -1,0 +1,11 @@
+body {
+  background-color: beige;
+}
+
+nav {
+  background-color: blue;
+}
+
+nav ul li a {
+  color: white;
+}
