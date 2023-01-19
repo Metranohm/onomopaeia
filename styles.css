@@ -116,3 +116,9 @@ p {
   margin: 0 auto;
   display: block;
 }
+.fourthmidpic {
+  max-width: 500px;
+  max-height: 500px;
+  margin: 0 auto;
+  display: block;
+}
