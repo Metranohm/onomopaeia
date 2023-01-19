@@ -24,9 +24,15 @@ h2 {
   padding-top: 30px;
 }
 
+.firstmidpic {
+  max-width: 900px;
+  max-height: 500px;
+  margin: 0 auto;
+  display: block;
+}
+
 .early {
   text-align: center;
-  padding-top: 30px;
 }
 
 .bosch1 {
@@ -94,5 +100,13 @@ p {
   margin: auto;
   width: 50%;
   padding: 10px;
+
+}
+
+.secondmidpic {
+  max-width: 300px;
+  max-height: 500px;
+  margin: 0 auto;
+  display: block;
 }
 
